@@ -10,6 +10,7 @@ Arduino sample sketches for 433MHz and 434MHz RF(UART) Transceiver Module with L
 <ul>
 <li><a href="http://www.cytron.com.my/p-rf-uart-433-1km" target="_blank">433MHz RF (UART) Transceiver Module-1km</a> or <a href="http://www.cytron.com.my/p-rf-uart-434-100m" target="_blank">434MHz RF Transceiver Module (UART)-100m</a></li>
 <li><a href="http://www.cytron.com.my/p-arduino-uno" target="_blank">Arduino UNO</a></li>
+<li><a href="http://www.cytron.com.my/p-sn-lm35dz" target="_blank">LM35</a></li>
 </ul>
 <strong>Software:</strong><br/>
 <ul>
